@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Syed007Hassan](https://github.com/Syed007Hassan)
 
-- 📫 How to reach me **syed007hassan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed muhammed hassan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammed hassan ali" height="30" width="40" /></a>
@@ -43,4 +41,11 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
+</p>
+
+<p align="center">
+	<a href="mailto:syed007hassan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Syed007Hassan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/syedmuhammedhassanali8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+		
 </p>
