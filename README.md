@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+I'm+Syed+Muhammed+Hassan+Ali.;A+Full+Stack+Development+Enthusiast.)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Syed007Hassan](https://github.com/Syed007Hassan)
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed muhammed hassan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammed hassan ali" height="30" width="40" /></a>
