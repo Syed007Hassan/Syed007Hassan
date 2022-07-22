@@ -42,6 +42,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
 </p>
+<hr>
 
 <p align="center">
 	<a href="mailto:syed007hassan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
