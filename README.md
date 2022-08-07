@@ -1,6 +1,10 @@
 
 [![MasterHead](https://s8.gifyu.com/images/Pink-Illustration-Hello-World-Programmer-LinkedIn-Article-Cover-Image-2.gif)](https://github.com/Syed007Hassan)
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=Hi%2C+I'm+Syed+Muhammed+Hassan+Ali.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Full+Stack+Web+Developer.;A+Passionate+Programmer.+;A+Tech+Geek." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"> 
+	<p  align="center" >
+	<img src="https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=Hi%2C+I'm+Syed+Muhammed+Hassan+Ali.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Full+Stack+Web+Developer.;A+Passionate+Programmer.+;A+Tech+Geek." alt="Typing SVG" />
+	</p>
+</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Syed007Hassan](https://github.com/Syed007Hassan)
 <hr style="border: 1px dashed" >
