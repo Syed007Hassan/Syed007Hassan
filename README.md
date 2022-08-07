@@ -48,5 +48,10 @@
             width="40" height="40"/> </a>
 </p>
 <hr style="border:2px solid gray">
+<p align="center >
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed007hassan&show_icons=true&locale=en&layout=compact" alt="syed007hassan" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=syed007hassan&show_icons=true&locale=en" alt="syed007hassan" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=syed007hassan&" alt="syed007hassan" /></p>			    
+</p>
 
 
