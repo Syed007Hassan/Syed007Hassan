@@ -42,15 +42,11 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
+            width="40" height="40" style="border-radius:50%" /> </a>
 </p>
 <hr style="border:2px solid gray">
 
-<p align="center">
-	<a href="mailto:syed007hassan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Syed007Hassan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/syedmuhammedhassanali8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-		
-</p>
+
