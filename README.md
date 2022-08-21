@@ -1,12 +1,15 @@
 
 [![MasterHead](https://s8.gifyu.com/images/Pink-Illustration-Hello-World-Programmer-LinkedIn-Article-Cover-Image-2.gif)](https://github.com/Syed007Hassan)
+
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 <a href="https://git.io/typing-svg"> 
-	<p  align="center" >
+	<p  align="left" >
 	<img src="https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=Hi%2C+I'm+Syed+Muhammed+Hassan+Ali.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Full+Stack+Web+Developer.;A+Passionate+Programmer.+;A+Tech+Geek." alt="Typing SVG" />
 	</p>
 </a>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
