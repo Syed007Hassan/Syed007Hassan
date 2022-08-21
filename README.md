@@ -12,9 +12,10 @@
 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 
+- ⚡ Fun fact: I love to play football. ⚽
+
 
 ---
 
@@ -58,7 +59,10 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40"/> </a>
 </p>
-<hr style="border:2px solid gray">
+
+
+---
+
 <p align="center >
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed007hassan&show_icons=true&locale=en&layout=compact" alt="syed007hassan" /></p>
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=syed007hassan&show_icons=true&locale=en" alt="syed007hassan" /></p>
