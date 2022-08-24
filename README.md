@@ -36,13 +36,11 @@
  &emsp;	
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-	
+  </a> 	
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
-	
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
