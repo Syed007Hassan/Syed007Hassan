@@ -1,5 +1,5 @@
 
-[![MasterHead](https://s8.gifyu.com/images/Pink-Illustration-Hello-World-Programmer-LinkedIn-Article-Cover-Image-2.gif)](https://github.com/Syed007Hassan)
+[![MasterHead](https://www.canva.com/design/DAFFuZ7tWG4/XT7fC6Rt5C68sFylRjce9w/watch?utm_content=DAFFuZ7tWG4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/Syed007Hassan)
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
