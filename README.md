@@ -130,10 +130,20 @@
 
 ---
 
-<p align="center >
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed007hassan&show_icons=true&locale=en&layout=compact" alt="syed007hassan" /></p>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=syed007hassan&show_icons=true&locale=en" alt="syed007hassan" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=syed007hassan&" alt="syed007hassan" /></p>			    
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Syed007Hassan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed007Hassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed007Hassan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  
+   <a href="https://github.com/Syed007Hassan"><img alt="Syed007Hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syed007Hassan&custom_title=Syed007Hassan's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
