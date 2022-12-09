@@ -140,8 +140,8 @@
 </p>
 
 ### ⚡ &nbsp;Recent GitHub Activity
- 
-   <a href="https://github.com/Syed007Hassan"><img alt="Syed007Hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syed007Hassan&custom_title=Syed007Hassan's%20Contribution%20Graph&theme=react-dark" /></a>
+
+[![Hassan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Syed007Hassan&bg_color=181D310&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Syed007Hassan/github-readme-activity-graph)
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
