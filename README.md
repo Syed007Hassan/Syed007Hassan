@@ -11,8 +11,8 @@
 </a>
 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
+- 👨‍💻 I’m currently working on JavaScript Frameworks (NodeJS/ReactJS).
+- 📚 I’m more interested in Backend technologies. 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play football. ⚽
 
