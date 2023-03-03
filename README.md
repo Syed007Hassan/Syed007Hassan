@@ -18,17 +18,25 @@
 - ⚡ Fun fact: I love to play football. ⚽
 
 
----
-
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🔗Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed muhammed hassan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammed hassan ali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/syed007hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syed007hassan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/syedhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="syedhassan" height="30" width="40" /></a>
 </p>
+<p>
 
----
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</p>
+
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -129,9 +137,7 @@
 </p>
 
 
----
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Syed007Hassan">
@@ -140,9 +146,9 @@
 </a>
 </p>
 
-### ⚡ &nbsp;Recent GitHub Activity
+## ⚡Recent GitHub Activity
 
-[![Hassan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Syed007Hassan&bg_color=181D310&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Syed007Hassan/github-readme-activity-graph)
+[![Hassan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Syed007Hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/Syed007Hassan/github-readme-activity-graph)
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
