@@ -1,12 +1,11 @@
 
 ![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
 <!-- 
-[![ezgif com-gif-maker](https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif)](https://github.com/Syed007Hassan)
 
 [![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<img align="right" alt="GIF" height="220px" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed007hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed007hassan" /> </p>
 
