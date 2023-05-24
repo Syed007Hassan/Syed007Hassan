@@ -130,10 +130,10 @@
 </p>
 
 ## ⚡Recent GitHub Activity
-
-[![Hassan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Syed007Hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/Syed007Hassan/github-readme-activity-graph)
+ 
+  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syed007hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
