@@ -12,7 +12,7 @@
 - 👨‍💻 I’m currently working on JavaScript Frameworks **NodeJS/ReactJS**.
 - 📚 I’m more interested in Backend technologies. 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🌱 I’m currently learning **GraphQL**.
+- 🌱 I’m currently learning **Angular/ASP.Net MVC**.
 - ⚡ Fun fact: I love to play football. ⚽
 
 <p>
