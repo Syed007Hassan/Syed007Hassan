@@ -9,11 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed007hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed007hassan" /> </p>
 
-- 👨‍💻 I’m currently working on JavaScript Frameworks **NodeJS/ReactJS**.
-- 📚 I’m more interested in Backend technologies. 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🌱 I’m currently learning **Angular/ASP.Net MVC**.
-- ⚡ Fun fact: I love to play football. ⚽
+- 👨‍💻 I’m currently working on **Node/React/Nest/Angular/ASP.Net MVC**. 🐦🔧
+- 📚 I’m more interested in **Backend** technologies. 📤
+- 💪🏼 Future Goals: Learn more cutting-edge technologies. 🌌 
+- ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
 
 <p>
 </p>
