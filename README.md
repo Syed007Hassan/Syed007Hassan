@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed007hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed007hassan" /> </p>
 
-- 👨‍💻 I’m currently working on **Node/React/Nest/Angular/ASP.Net MVC**. 🐦🔧
+- 👨‍💻 I’m currently working on **Node/React/Nest/Angular/ASP.Net MVC/Flask**. 🐦🔧
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals: Learn more cutting-edge technologies. 🌌 
 - ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
