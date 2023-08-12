@@ -12,7 +12,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007hassan?label=Stars">
 </p>
 
-- 👨‍💻 I’m currently working on **Node/React/Nest/Angular/ASP.Net MVC/Flask**. 🐦🔧
+- 👨‍💻 I’m currently working on **Node/React/Nest/Angular/Flask**. 🐦🔧
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals: Learn more cutting-edge technologies. 🌌 
 - ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
