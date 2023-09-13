@@ -1,5 +1,4 @@
-
-![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
+![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 <!-- 
 
 [![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
