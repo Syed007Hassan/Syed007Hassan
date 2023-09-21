@@ -8,7 +8,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=syed007hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed007hassan" /> 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007hassan?label=Stars">
+<!--   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007hassan?label=Stars"> -->
 </p>
 
 - 👨‍💻 I’m currently working on **Node/React/Nest/Angular/Flask**. 🐦🔧
