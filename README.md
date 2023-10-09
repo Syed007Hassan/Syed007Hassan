@@ -14,7 +14,9 @@
 - 👨‍💻 I’m currently working on **Node/React/Nest/Angular/Flask**. 🐦🔧
 - 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
-- 💪🏼 Future Goals: Dedicate more time to contributing to **Open-Source** technologies. 🌌 
+- 💪🏼 Future Goals:
+    - Dedicate more time to contributing to **Open-Source** technologies. 🌌
+    - Learn **GoLang** as a low-latency language. ⏱️
 - ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
 
 <p>
