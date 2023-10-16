@@ -24,7 +24,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,c,cpp,cs,css,discord,docker,eclipse,nodejs,express,firebase,git,github,githubactions,go,graphql,heroku,html,java,jquery,js,laravel,linux,mongodb,mysql,nodejs,php,postgres,postman,pug,py,react,sass,spring,stackoverflow,selenium,tailwind,ts,vscode,vite,nestjs,angular,dotnet,flask,jest,redis,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,c,cpp,cs,css,discord,docker,eclipse,nodejs,express,firebase,git,github,githubactions,go,graphql,heroku,html,java,jquery,js,laravel,linux,mongodb,mysql,nodejs,php,postgres,postman,pug,py,react,redux,sass,spring,stackoverflow,selenium,tailwind,nextjs,ts,vscode,vite,nestjs,angular,dotnet,flask,jest,redis,sqlite&theme=dark)](https://skillicons.dev)
 
 
 ## ⚙️GitHub Analytics
