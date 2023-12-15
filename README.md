@@ -29,11 +29,18 @@
 ## ⚙️GitHub Analytics
 
 <p align="center">
+
+[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/Syed007Hassan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan) 
+
+</p>
+
+<p align="center">  
 <a href="https://github.com/Syed007Hassan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed007Hassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed007Hassan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 ## ⚡Recent GitHub Activity
  
