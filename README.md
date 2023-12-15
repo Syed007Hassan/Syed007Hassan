@@ -28,11 +28,14 @@
 
 ## ⚙️GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/Syed007Hassan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan) 
+[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/Syed007Hassan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
 
-</p>
+[![Syed007Hassan's GitHub | Languages Over Time](https://stats.quine.sh/Syed007Hassan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
+
+</div>
+
 
 <p align="center">  
 <a href="https://github.com/Syed007Hassan">
