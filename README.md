@@ -11,7 +11,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007hassan?label=Stars">
 </p>
 
-- 👨‍💻 I’m currently working on **OpenAI Assistant/Chat Completions API for creating Voice Assistants using GPT-4o**. 🐦🔧
+- 👨‍💻 I’m currently working on **Automations using AI and LLMs**. 🐦🔧
 - 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals:
