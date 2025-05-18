@@ -1,17 +1,15 @@
 ![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
-<!-- 
 
-[![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
 
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
-
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=syed007hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed007hassan" /> 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007hassan?label=Stars">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Syed007Hassan?label=Stars">
 </p>
 
-- 👨‍💻 I’m currently working on **Automations using AI and LLMs**. 🐦🔧
+
+<img align="right" alt="GIF" height="245px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
+
+- 👨‍💻 I’m currently working on **Agent AI using LLMs**. 🐦🔧
 - 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals:
