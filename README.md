@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="245px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
-- 👨‍💻 I’m currently working on **Agent AI using LLMs**. 🐦🔧
+- 👨‍💻 I’m currently working on **Agentic AI using LLMs**. 🐦🔧
 - 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals:
