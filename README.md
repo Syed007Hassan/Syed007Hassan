@@ -23,7 +23,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,go,py,html,babel,bootstrap,css,pug,react,redux,sass,tailwind,materialui,nextjs,angular,vite,nodejs,express,graphql,nestjs,flask,fastapi,spring,elasticsearch,mongodb,mysql,postgres,redis,sqlite,firebase,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
 
 ## ⚙️GitHub Analytics
 <!--
