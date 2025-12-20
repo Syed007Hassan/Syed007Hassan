@@ -23,7 +23,23 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
+## 💻 Languages
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,js,ts,html,css,sass,go&theme=dark)](https://skillicons.dev)
+
+## 🚀 Frameworks & Libraries
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring&theme=dark)](https://skillicons.dev)
+
+## 🗄️ Databases & Vector Stores
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,qdrant,pinecone&theme=dark)](https://skillicons.dev)
+
+## 🤖 AI/ML & LLM
+[![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,chatgpt,claude,cursor,ollama,groq&theme=dark)](https://skillicons.dev)
+
+## ☁️ DevOps & Infrastructure
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel,docker,kubernetes,argocd,openshift,githubactions,prometheus,grafana,heroku,redhat,linux,s3&theme=dark)](https://skillicons.dev)
+
+## 🛠️ Tools & Other
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,postman,stackoverflow,vscode,webstorm,notion,idea,sonarqube,miro,stripe&theme=dark)](https://skillicons.dev)
 
 ## ⚙️GitHub Analytics
 <!--
