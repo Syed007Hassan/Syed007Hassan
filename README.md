@@ -24,26 +24,28 @@
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## 💻 Languages
-[![Languages](https://i.icoziv.workers.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,go&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+[![Languages](https://i.icoziv.workers.dev/icons?i=py,c,cpp,java,js,ts,go&perline=20&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## 🚀 Frameworks & Libraries
-[![Frameworks](https://i.icoziv.workers.dev/icons?i=tailwind,bootstrap,materialui,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+<p>
+  <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=tailwind,bootstrap,materialui,flask,fastapi,django,react,redux&perline=20&theme=dark" alt="Frameworks" /></a><br>
+  <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=nextjs,angular,vite,nodejs,express,nestjs,graphql,spring&perline=20&theme=dark" alt="Frameworks" /></a>
+</p>
 
 ## 🗄️ Databases & Vector Stores
-[![Databases](https://i.icoziv.workers.dev/icons?i=mysql,postgresql,sqlite,mongodb,elasticsearch,redis,firebase,qdrant&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
-
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
+[![Databases](https://i.icoziv.workers.dev/icons?i=mysql,postgresql,sqlite,mongodb,elasticsearch,redis,firebase,qdrant&perline=20&theme=dark)](https://github.com/thuongtruong109/icoziv)<img src="assets/pinecone.svg" alt="Pinecone" height="48" />
 
 ## 🤖 AI/ML & LLM
-[![AI/ML](https://i.icoziv.workers.dev/icons?i=pytorch,tensorflow,langchain,chatgpt,claudeai,cursor,ollama,groq&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+[![AI/ML](https://i.icoziv.workers.dev/icons?i=pytorch,tensorflow,langchain,chatgpt,claudeai,cursor,ollama,groq&perline=20&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## ☁️ DevOps & Infrastructure
-[![DevOps](https://i.icoziv.workers.dev/icons?i=aws,azure,vercel,docker,kubernetes,argocd,openshift,githubactions,prometheus,grafana,heroku,redhat,linux,amazons3&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+[![DevOps](https://i.icoziv.workers.dev/icons?i=aws,azure,vercel,docker,kubernetes,argocd,openshift,githubactions,prometheus,grafana,heroku,redhat,linux,amazons3&perline=20&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## 🛠️ Tools & Other
-[![Tools](https://i.icoziv.workers.dev/icons?i=jest,selenium,bash,discord,git,github,gitlab,postman,stackoverflow,vscode,webstorm,notion,idea,sonarqube,stripe&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
-
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+<p>
+  <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=jest,selenium,bash,discord,git,github,gitlab,postman&perline=20&theme=dark" alt="Tools" /></a><br>
+  <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=stackoverflow,vscode,webstorm,notion,idea,sonarqube,stripe&perline=20&theme=dark" alt="Tools" /></a><img src="assets/miro.svg" alt="Miro" height="48" />
+</p>
 
 ## ⚙️GitHub Analytics
 <!--
