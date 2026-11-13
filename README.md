@@ -24,22 +24,26 @@
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## 💻 Languages
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,js,ts,html,css,sass,go&theme=dark)](https://skillicons.dev)
+[![Languages](https://i.icoziv.workers.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,go&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## 🚀 Frameworks & Libraries
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://i.icoziv.workers.dev/icons?i=tailwind,bootstrap,materialui,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## 🗄️ Databases & Vector Stores
-[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,qdrant,pinecone&theme=dark)](https://skillicons.dev)
+[![Databases](https://i.icoziv.workers.dev/icons?i=mysql,postgresql,sqlite,mongodb,elasticsearch,redis,firebase,qdrant&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
 
 ## 🤖 AI/ML & LLM
-[![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,chatgpt,claude,cursor,ollama,groq&theme=dark)](https://skillicons.dev)
+[![AI/ML](https://i.icoziv.workers.dev/icons?i=pytorch,tensorflow,langchain,chatgpt,claudeai,cursor,ollama,groq&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## ☁️ DevOps & Infrastructure
-[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel,docker,kubernetes,argocd,openshift,githubactions,prometheus,grafana,heroku,redhat,linux,s3&theme=dark)](https://skillicons.dev)
+[![DevOps](https://i.icoziv.workers.dev/icons?i=aws,azure,vercel,docker,kubernetes,argocd,openshift,githubactions,prometheus,grafana,heroku,redhat,linux,amazons3&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ## 🛠️ Tools & Other
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,postman,stackoverflow,vscode,webstorm,notion,idea,sonarqube,miro,stripe&theme=dark)](https://skillicons.dev)
+[![Tools](https://i.icoziv.workers.dev/icons?i=jest,selenium,bash,discord,git,github,gitlab,postman,stackoverflow,vscode,webstorm,notion,idea,sonarqube,stripe&perline=10&theme=dark)](https://github.com/thuongtruong109/icoziv)
+
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
 
 ## ⚙️GitHub Analytics
 <!--
