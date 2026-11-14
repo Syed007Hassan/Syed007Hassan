@@ -62,10 +62,6 @@
   <img height="180em" src="profile/stats.svg" alt="GitHub stats"/>&nbsp;<img height="180em" src="profile/top-langs.svg" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="profile/metrics-languages.svg" alt="Most used and recently used languages"/>
-</p>
-
 <!--
 ## ⚡Recent GitHub Activity
  
