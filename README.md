@@ -59,10 +59,7 @@
 -->
 
 <p align="center">  
-<a href="https://github.com/Syed007Hassan">
-  <img height="180em" src="profile/stats.svg" alt="GitHub stats"/>
-  <img height="180em" src="profile/top-langs.svg" alt="Top languages"/>
-</a>
+  <img height="180em" src="profile/stats.svg" alt="GitHub stats"/>&nbsp;<img height="180em" src="profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
