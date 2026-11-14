@@ -60,9 +60,13 @@
 
 <p align="center">  
 <a href="https://github.com/Syed007Hassan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed007Hassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed007Hassan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="profile/stats.svg" alt="GitHub stats"/>
+  <img height="180em" src="profile/top-langs.svg" alt="Top languages"/>
 </a>
+</p>
+
+<p align="center">
+  <img src="profile/metrics-languages.svg" alt="Most used and recently used languages"/>
 </p>
 
 <!--
