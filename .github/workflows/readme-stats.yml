@@ -45,6 +45,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           filename: metrics-languages.svg
           output_action: none
+          debug: yes # temporary: verbose logs to diagnose empty languages sections
           base: ""
           # Commits are matched by author name/email. The email comes from the optional
           # COMMIT_EMAIL secret so it isn't hardcoded in this public file.
