@@ -36,7 +36,8 @@ jobs:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      # Most-used + recently-used languages (lowlighter/metrics). Requires a PAT;
+      # Most-used languages by your own commits (lowlighter/metrics). recently-used is
+      # broken upstream: GitHub removed commit lists from PushEvent payloads. Requires a PAT;
       # skipped until the STATS_TOKEN secret exists.
       - name: Generate languages card (metrics)
         if: env.STATS_TOKEN != ''
@@ -47,13 +48,14 @@ jobs:
           output_action: none
           debug: yes # temporary: verbose logs to diagnose empty languages sections
           base: ""
+          repositories_batch: 25 # batches of 100 fail on this account and metrics doesn't recover
           # Commits are matched by author name/email. The email comes from the optional
           # COMMIT_EMAIL secret so it isn't hardcoded in this public file.
           commits_authoring: Syed007Hassan, Syed Muhammed Hassan Ali, ${{ secrets.COMMIT_EMAIL }}
           config_timezone: Europe/Berlin
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, sass, tex, c++, dockerfile, makefile, shell
